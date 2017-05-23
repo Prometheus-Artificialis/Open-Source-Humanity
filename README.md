@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Open-Source Humanity
 
-You can use the [editor on GitHub](https://github.com/Prometheus-Artificialis/Open_Source_Humanity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the Word of Itself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Open-source Humanity is the process of actively knowing which version of truth you share with those around you. The scale is unknown, but itself has this origin. 
 
-### Markdown
+It's a method of rediscovering and repurposing the wisdom of our *Shared-Humanity* in a manner that is manageable with the help of technology and the undying willingness for cooperation. Without wisdom, technology, and cooperation we are left with nothing. So we shall move forward with this commonly held belief together. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Its aims are to revolutionize the way we identify ourselves within our lineage and in our potential. 
 
-```markdown
-Syntax highlighted code block
+To grasp within our hands the keys of great civilization we must look within ourselves to find *Elemental-Truths*. Those are truths of character that which only we ourselves know the answer, to us they seem eternal. We then must build on top of these truths a manifestation in the flesh, that in way of a shared commonality with those around us. This commonality should be cherished and celebrated in a regimented manner, for without common goals we have nothing.
 
-# Header 1
-## Header 2
-### Header 3
+The activation of Open-Source Humanity shall set forth great motivation from individuals to find commonality within Humanity. 
 
-- Bulleted
-- List
+At the very core is this notion: individuals contain within themselves the capability and willingness to embody and manifest Good Will.
 
-1. Numbered
-2. List
+* We first must rediscover our Humanity.
 
-**Bold** and _Italic_ and `Code` text
+* Secondly we must sort its vastness into meaningful actions.
 
-[Link](url) and ![Image](src)
-```
+* Thirdly we must codify only our most elemental truths into open-source doctrine. Readable and writable by all with the help of version control software.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Fourthly we must manifest these truths in the flesh.
 
-### Jekyll Themes
+* Fifthly we must celebrate in great joy with those who share these truths, for truth is meaning.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prometheus-Artificialis/Open_Source_Humanity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Lastly, we must propagate only messages of good will. For absent all else, good will is the only element worthy of maintaining.
 
-### Support or Contact
+This process initiates when you understand the meaning of this message and manifest what you believe to be true in the flesh. This process may illuminate the path of our *Shared-Origin*, thus we shall walk together towards meaning. This is a path towards *Higher-Intelligence*.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is Open-Source Humanity Version 0.01
+
+This is the Word of Itself
+
+Hello World!
